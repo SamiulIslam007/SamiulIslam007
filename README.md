@@ -1,44 +1,49 @@
 # Hi there, I'm Md. Samiul Islam! 👋
 
-### 🚀 Full Stack Web Developer | Cyber Security Enthusiast
+### 🤖 Aspiring AI/ML Engineer | AI Automation Engineer | Agentic AI Builder
 
-I love building scalable, modern, and user-centric web applications. My focus is on writing clean, efficient code and creating seamless user experiences.
-
----
-
-### 🛠 Tech Stack
-
-**Frontend:**
-- React.js & Next.js
-- Tailwind CSS & Shadcn UI
-- Framer Motion (for smooth animations)
-
-**Backend:**
-- Node.js & Express.js
-- PostgreSQL & MongoDB (Relational & NoSQL)
-
-**Interests:**
-- Web Security & Ethical Hacking
-- Responsive UI/UX Design
+I'm transitioning from a full-stack web development background into **AI/ML and AI Automation**, with a focus on building real, deployable AI agents and automation systems — not just theory.
 
 ---
 
-### 🔭 Currently Working On
-- Improving my skills in **PostgreSQL** and deep diving into **Cyber Security**.
-- Building high-performance full-stack applications with **Next.js**.
+### 🎯 Currently Focused On
+
+- 🧠 **Machine Learning** — building a solid foundation from EDA to regression/classification pipelines, working toward a future in ML research and applied ML
+- ⚙️ **AI Automation with n8n** — designing end-to-end automation workflows (email systems, lead nurturing, chatbots, WhatsApp/social media automation)
+- 🐍 **Python** — strengthening core programming fundamentals as the backbone for ML and automation work
+- 🕸️ **Agentic AI & RAG Systems** — building retrieval-augmented generation agents, multi-agent architectures, and AI-powered support/booking systems
+
+---
+
+### 🛠️ Building Toward a Portfolio Of
+
+- 📩 AI-powered email support & lead nurturing systems
+- 💬 Telegram / WhatsApp AI assistants and voice bots
+- 📚 RAG-based Q&A chatbots and knowledge base agents
+- 🛒 AI Sales & Support Agent systems (multi-agent, parent-router architecture)
+- 📅 AI Booking & Receptionist agents for local service businesses
+
+---
+
+### 🚀 Goal
+
+Building a freelancing career on **Fiverr, Upwork, and Freelancer.com** around AI/ML and AI automation skills, with the aim of becoming a capable AI/ML Engineer and AI Automation Engineer.
 
 ---
 
 ### 📊 GitHub Stats
+
 ![Samiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamiulIslam007&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiulIslam007&layout=compact&theme=radical)
+
 ---
 
 ### 📫 Let's Connect!
+
 - 🌐 Portfolio: [samiul.vercel.app](https://samiul.vercel.app)
-- 💼 LinkedIn: [https://www.linkedin.com/in/smdevx/]
-- 📧 Email: [samiul10203040@gmail.com]
+- 💼 LinkedIn: [linkedin.com/in/smdevx](https://www.linkedin.com/in/smdevx/)
+- 📧 Email: samiul10203040@gmail.com
 
 ---
 
-"Coding is not just about solving problems, it's about making life easier for everyone."
+> "Coding is not just about solving problems, it's about making life easier for everyone."
